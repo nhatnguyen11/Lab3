@@ -1,0 +1,57 @@
+ clang-7 -pthread -lm -o main lab3.c main.c
+ ./main
+Please enter the winning time of the race: 36
+The person was traveling at a rate of:
+
+2.78  meters per second.
+9.11 feet per second.
+10.00 kilometers per hour.
+6.21 miles per hour.
+
+It would take the runner 9 minutes and 39.36 seconds to run a mile. 
+It would take the runner 32.92 seconds to run 100 yards. ^C
+ 
+
+
+ clang-7 -pthread -lm -o main lab3.c main.c
+ ./main
+Please enter the winning time of the race: 14
+The person was traveling at a rate of:
+
+7.14  meters per second.
+23.43 feet per second.
+25.71 kilometers per hour.
+15.98 miles per hour.
+
+It would take the runner 3 minutes and 45.31 seconds to run a mile. 
+It would take the runner 12.80 seconds to run 100 yards. 
+
+
+ clang-7 -pthread -lm -o main lab3.c main.c
+ ./main
+Please enter the winning time of the race: 12
+The person was traveling at a rate of:
+
+8.33  meters per second.
+27.34 feet per second.
+30.00 kilometers per hour.
+18.64 miles per hour.
+
+It would take the runner 3 minutes and 13.12 seconds to run a mile. 
+It would take the runner 10.97 seconds to run 100 yards. 
+
+
+ clang-7 -pthread -lm -o main lab3.c main.c
+ ./main
+Please enter the winning time of the race: 8
+The person was traveling at a rate of:
+
+12.50  meters per second.
+41.01 feet per second.
+45.00 kilometers per hour.
+27.96 miles per hour.
+
+It would take the runner 2 minutes and 8.75 seconds to run a mile. 
+It would take the runner 7.32 seconds to run 100 yards. 
+
+
